@@ -1,3 +1,5 @@
+
+#download the image in download.png before running
 from tkinter import *
 from PIL import *
 t=Tk()
